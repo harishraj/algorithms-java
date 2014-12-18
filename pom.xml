@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nastra</groupId>
-    <artifactId>Algorithms</artifactId>
+    <artifactId>Algorithms-Java</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Algorithms</name>
+    <name>Algorithms-Java</name>
     <url>http://maven.apache.org</url>
 
     <properties>

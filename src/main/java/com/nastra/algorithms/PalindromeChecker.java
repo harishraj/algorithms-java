@@ -11,5 +11,6 @@ public class PalindromeChecker {
             return false;
         }
         return input.equals(new StringBuilder().append(input).reverse().toString());
+        
     }
 }
